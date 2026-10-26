@@ -496,3 +496,23 @@ Accuracy + Accessibility + Helpfulness + Respect
 The purpose is not only to make a website.
 
 The purpose is to create something that can make finding safe and suitable food easier for people who are often overlooked.
+
+---
+
+## Website (first version)
+
+The website lives in this repository and needs no build step (plain HTML, CSS and JavaScript, as planned in §15).
+
+**Run it locally:** open `index.html` in a browser, or run `python3 -m http.server` in this folder and visit http://localhost:8000.
+**Publish it:** enable GitHub Pages for the `main` branch. No other setup is needed.
+
+| File | What it contains |
+| --- | --- |
+| `assets/js/data.js` | **All content**: recipes, Debrecen places, products, Learn topics and kitchen swaps. Edit this file to update the site. |
+| `assets/js/art.js` | Original hand-drawn SVG food illustrations (no copied photos). |
+| `assets/js/app.js` | Navigation, filters, search, map and all animations. |
+| `assets/css/style.css` | Design: colours, fonts, layout, mobile version. |
+
+All places and products are marked **"Sample listing · not yet verified"**. Replace them with information you have checked, then set `status: "verified"` and `checked: "<date>"` in `data.js`.
+
+Useful details: `←` / `→` switch items, `/` opens search, and links such as `#/recipes/chocolate-cake` open a specific item, which is handy for QR codes. Visitors who prefer reduced motion get a calm version without the animations.
