@@ -395,25 +395,13 @@ Develop new skills such as:
 * Organization
 * Information management
 
-#### LO3
 
-Plan and initiate a CAS experience by planning, designing, researching and developing the website.
-
-#### LO4
-
-Show commitment and perseverance by continuously improving and updating the website.
-
-#### LO5
-
-Develop skills in communication and collaboration by collecting feedback and potentially working with restaurants or other people.
 
 #### LO6
 
 Engage with an issue of global significance: food allergies, accessibility and inclusion.
 
-#### LO7
 
-Recognize the benefits and challenges of working on a long-term service project and reflect on its impact.
 
 ---
 
